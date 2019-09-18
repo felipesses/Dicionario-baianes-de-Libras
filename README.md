@@ -1,5 +1,5 @@
 # Dicionário baianês de Libras
 
-#Projeto
+<b>Projeto
 
-#Como contribuir
+<b>Como contribuir

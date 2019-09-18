@@ -1,1 +1,5 @@
-# Dicionario-baianes-de-Libras
+# Dicionário baianês de Libras
+
+#Projeto
+
+#Como contribuir

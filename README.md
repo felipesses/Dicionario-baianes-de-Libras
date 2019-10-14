@@ -14,3 +14,5 @@
 <br/> 4 - Tradução
 <br/> 5 - Novas palavras
 
+Para mais detalhes acesse nosso [CONTRIBUTING](https://github.com/EuJota/Dicionario-baianes-de-Libras/blob/master/CONTRIBUTING.MD)
+
